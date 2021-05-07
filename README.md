@@ -1,3 +1,5 @@
+# Pandacoin logo![pandacoin](https://user-images.githubusercontent.com/83800886/117408444-893b4f80-af42-11eb-8ce4-192c8c707403.jpg)
+
 # Pandacoin Core  
 pandacoin is a cryptocurrency like Bitcoin, Out of the protection of the environment and Energy will be used (Pos) principle of work for mining。
 
