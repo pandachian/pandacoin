@@ -54,7 +54,6 @@ Each subsequent block will grant 10,00 coins to encourage miners to continue to
 secure the network and make up for lost wallets on hard drives/phones/lost
 encryption passwords/etc.
 
-
 ## Development tips and tricks
 
 **compiling for debugging**
@@ -67,12 +66,17 @@ How to get pandacoin?
 Early on the project will rely on trc20 to issue tokens and fly 100 pandacoins to each encrypted user of the whole network, and open the transaction until the mapping to the main network.
 
 The characteristics of the panda
+
 1. Zero transaction costs
 Transaction between different fiat currencies is usually charged a few percent plus a transaction fee. Any transaction fee for Panda is zero.
+
 2, anonymous
 Panda Network does not require users to provide email, name, or any other information to provide privacy for consumers.
+
 3, safety
 Sending panda is just like sending cash. After receiving it, there is no other charge. The payer must provide personal information by credit card and check, which may lead to fraud.
+
 4, reliable,
 Since Panda transactions are not reversible, merchants can trade with anyone without fear of resigning.
+
 5. Anyone can run PANDA
