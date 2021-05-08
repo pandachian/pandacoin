@@ -2,6 +2,7 @@
 
 # Pandacoin Core  
 pandacoin is a cryptocurrency like Bitcoin, Out of the protection of the environment and Energy will be used (Pos) principle of work for mining。
+Panda open payment system is a virtual currency network, the future of electronic payment platform. Its goal is to build a decentralized virtual currency system that allows anyone to create their own currency.
 
 ## License – Much license ⚖️
 pandacoin Core is released under the terms of the MIT license. See
@@ -64,3 +65,14 @@ Run `configure` with the `--enable-debug` option, then `make`. Or run `configure
 How to get pandacoin? 
 
 Early on the project will rely on trc20 to issue tokens and fly 100 pandacoins to each encrypted user of the whole network, and open the transaction until the mapping to the main network.
+
+The characteristics of the panda
+1. Zero transaction costs
+Transaction between different fiat currencies is usually charged a few percent plus a transaction fee. Any transaction fee for Panda is zero.
+2, anonymous
+Panda Network does not require users to provide email, name, or any other information to provide privacy for consumers.
+3, safety
+Sending panda is just like sending cash. After receiving it, there is no other charge. The payer must provide personal information by credit card and check, which may lead to fraud.
+4, reliable,
+Since Panda transactions are not reversible, merchants can trade with anyone without fear of resigning.
+5. Anyone can run PANDA
