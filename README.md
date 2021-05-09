@@ -48,7 +48,6 @@ to add a test plan to the pull request description if testing the changes is
 not straightforward.
 
 ## Very Much Frequently Asked Questions ❓
-
 ### How much panda can exist? 
 Early 2021 (approximately a year and a half after release) there will be
 approximately 2100,000,000,000 coins.
