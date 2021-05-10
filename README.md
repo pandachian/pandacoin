@@ -69,7 +69,7 @@ Run `configure` with the `--enable-debug` option, then `make`. Or run `configure
 How to get pandacoin? 
 
 Early on the project will rely on trc20 to issue tokens and fly 100 pandacoins to each encrypted user of the whole network, and open the transaction until the mapping to the main network.
-By sending 10 Trx to the project side with a decentralized wallet, you can get 1 Panda Coin, a 1,000 panda coin
+By sending 10 Trx to the project side with a decentralized wallet, you can get 1,000 panda coin
 
 The characteristics of the panda
 
