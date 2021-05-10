@@ -59,13 +59,6 @@ Each subsequent block will grant 10,00 coins to encourage miners to continue to
 secure the network and make up for lost wallets on hard drives/phones/lost
 encryption passwords/etc.
 
-## Development tips and tricks
-
-**compiling for debugging**
-
-Run `configure` with the `--enable-debug` option, then `make`. Or run `configure` with
-`CXXFLAGS="-g -ggdb -O0"` or whatever debug flags you need.
-
 How to get pandacoin? 
 
 Early on the project will rely on trc20 to issue tokens and fly 100 pandacoins to each encrypted user of the whole network, and open the transaction until the mapping to the main network.
