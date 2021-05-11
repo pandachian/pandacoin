@@ -4,7 +4,7 @@
 pandacoin is a cryptocurrency like Bitcoin, Out of the protection of the environment and Energy will be used (Pos) principle of work for mining。
 Panda open payment system is a virtual currency network, the future of electronic payment platform. Its goal is to build a decentralized virtual currency system that allows anyone to create their own currency.
 
-Block viewer：https://tronscan.io/#/token20/TPCuDa4zh4PXNc5cMNR1a7ded6sNNUP76q
+Block browser ：https://tronscan.io/#/token20/TPCuDa4zh4PXNc5cMNR1a7ded6sNNUP76q
 
 Panda Dollar Contract address：TPCuDa4zh4PXNc5cMNR1a7ded6sNNUP76q
 
