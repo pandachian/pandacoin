@@ -1,6 +1,6 @@
 <!--- Remove sections that do not apply -->
 
-This issue tracker is only for technical issues related to Dogecoin Core.
+This issue tracker is only for technical issues related to pandacoin Core.
 
 For general questions about Dogecoin please use one of the various communities, e.g. Reddit, IRC, Discord, etc.
 
